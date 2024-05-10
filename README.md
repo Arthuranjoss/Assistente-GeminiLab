@@ -59,5 +59,3 @@ Link do projeto: [https://github.com/Arthuranjoss/Assistente-GeminiLab
 
 - [Alura]
   
-
-```
